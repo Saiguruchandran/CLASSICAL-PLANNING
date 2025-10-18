@@ -129,4 +129,4 @@ print(plan)
 
 
 <H3>RESULT:</H3>
-Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
+tus the Implementation of Classical Planning Algorithm was executed  successfully.
